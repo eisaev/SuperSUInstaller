@@ -13,7 +13,7 @@ This is a program for obtaining root permissions on a smart watch based on the U
 
 Now you can work with the watch using adb.
 ### Installing SuperSUInstaller
-1. [Download](https://github.com/eisaev/SuperSUInstaller/releases/download/v0.1b/SuperSUInstaller.apk) or build SuperSUInstaller.
+1. [Download](https://github.com/eisaev/SuperSUInstaller/releases/) or build SuperSUInstaller.
 2. Install apk to the watch:
 ```
 adb install SuperSUInstaller.apk
