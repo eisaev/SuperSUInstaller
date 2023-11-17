@@ -1,5 +1,5 @@
 # SuperSU Installer
-This is a program for obtaining root permissions on a smart watch based on the Unisoc/Spreadtrum SP9820E SoC. This method will presumably work on all existing clones, such as A36E, Wonlex KT11, Lemfo     G4H 4G, etc. The installer uses the manufacturer's backdoor for engineering mode.
+This is a program for obtaining root permissions on a smart watch based on the Unisoc/Spreadtrum SP9820E or SP8521E SoC. This method will presumably work on all existing clones, such as A36E, Wonlex KT11, Lemfo     G4H 4G, etc. The installer uses the manufacturer's backdoor for engineering mode.
 
 ## HowTo
 ### Enable USB Debugging
